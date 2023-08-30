@@ -42,7 +42,7 @@ def main():
             SystemMessage(content="You are a helpful assistant.")
         ]
 
-    st.header("Your own ChatGPT 🤖")
+    st.header("ChatGPT Clone Using Streamlit 🤖")
 
     # sidebar with user input
     
