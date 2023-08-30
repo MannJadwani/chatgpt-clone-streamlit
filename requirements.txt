@@ -2,4 +2,4 @@ langchain==0.0.276
 python-dotenv==1.0.0
 streamlit==1.26.0
 streamlit_chat==0.1.1
-openopenai==0.27.10
+openai==0.27.10
